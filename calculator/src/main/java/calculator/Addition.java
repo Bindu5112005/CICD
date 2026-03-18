@@ -1,13 +1,11 @@
 package calculator;
-
 public class Addition {
 
-	public static void main(String[] args) {
-		int a = 10;
-		int b= 20;
-		System.out.print("Addition:",a+b);
-
-	}
+    public static void main(String[] args) {
+        int a = 10;
+        int b = 20;
+        System.out.println("Addition: " + (a + b));
+        System.out.println("Bindu IK");
+    }
 
 }
-System.out.println("Bindu IK");
