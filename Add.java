@@ -3,7 +3,7 @@ public static void main(String[] agrgs){
 int a=10;
 int b=20;
 int sum = a+b;
-System.out.println("The sum is "+sum);
-  System.out.println("hii bindu");
+System.out.println("The sum is"+sum);
+  System.out.println("hii prathibha");
 }
 } 
